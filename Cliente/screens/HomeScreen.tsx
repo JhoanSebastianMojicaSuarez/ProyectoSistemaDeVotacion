@@ -9,7 +9,7 @@ export default function HomeScreen() {
     <View style={styles.container}>
       <Text style={styles.text}>App USTA </Text>
       <Button
-        title="Ir a Productos"
+        title="Ir a Productos diego"
         onPress={() => navigation.navigate('Productos' as never)}
       />
     </View>
